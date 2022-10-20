@@ -8,4 +8,4 @@
 
 ### Author - me :smile:
 
-![This is a alt text.](./images/me_use_this.jpg=250x250 "This is me :)")
+![This is a alt text.](./images/me_use_this.jpg "This is me :)")
